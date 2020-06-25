@@ -5,3 +5,6 @@ A system for collaborative ontology development process. Given an owl file, **On
 This is a Drag and Drop alternative of https://github.com/OnToology/OnToology
 
 You can run a local version using a server like Apache Tomcat.
+
+
+This work has been carried out by Adrián Mora Carrero during the final degree project: <<add link to oa.upm.es>>
